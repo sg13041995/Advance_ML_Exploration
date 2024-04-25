@@ -2,3 +2,11 @@ Timeseries forecasting_Weather_ANN not RNN/*.csv
 Timeseries forecasting_Weather_ANN not RNN/*.zip
 
 Timeseries forecasting_Weather_With RNN/*.csv
+
+Natural Language Processing/aclImdb
+Natural Language Processing/*.gz
+Natural Language Processing/embeddings_bidir_lstm.keras
+Natural Language Processing/embeddings_bidir_lstm_with_masking.keras
+Natural Language Processing/*.zip
+Natural Language Processing/glove/
+Natural Language Processing/glove_embeddings_sequence_model.keras
